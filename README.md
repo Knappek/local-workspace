@@ -1,1 +1,1 @@
-# My personal `.vimrc` and `.bashrc`
+My personal `.vimrc` and `.bashrc`
