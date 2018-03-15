@@ -83,7 +83,7 @@ set showmatch
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
 
-set textwidth=79
+" set textwidth=79
 
 set wildmode=longest,list,full
 set wildmenu
